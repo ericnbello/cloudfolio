@@ -1,9 +1,9 @@
 ---
-title: Landing
-layout: landing
+title: Home
+layout: home
 description: 'Welcome to my site! I'm an IT professional dedicated to continuous learning and excellence. Whether navigating AWS, Azure, and Google Cloud, providing IT support, or managing systems, I thrive in the dynamic tech landscape. From architecting scalable solutions to optimizing infrastructure, I'm passionate about leveraging technology to drive success.'
 image: assets/images/pic07.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->

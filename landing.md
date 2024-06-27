@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Home
+layout: landing
+title: Landing
 landing-title: 'Hi, my name is Eric'
 description: null
 image: null
