@@ -4,7 +4,7 @@
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Serverless Website</h1>
+			<h1>Cloud Server Website</h1>
 		</header>
 
 <!-- Content -->
@@ -13,7 +13,7 @@
 
 <h4>Fit</h4>
 <div class="image fit">
-<img src="{% link assets/images/Eric-Bello-Portfolio.png %}" alt="" />
+<img src="{% link assets/images/Weather-App.png %}" alt="" />
 </div>
 
 </div>
