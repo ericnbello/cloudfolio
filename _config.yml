@@ -4,7 +4,7 @@ subtitle:
 email: ericnbello@icloud.com
 description: Welcome to my site! I'm an IT professional dedicated to continuous learning and excellence. Whether navigating AWS, Azure, and Google Cloud, providing IT support, or managing systems, I thrive in the dynamic tech landscape. From architecting scalable solutions to optimizing infrastructure, I'm passionate about leveraging technology to drive success.
 baseurl: "/projects" # the subpath of your site, e.g. /blog
-url: http://ericnbello.github.io # the base hostname & protocol for your site
+url: https://ericnbello.github.io # the base hostname & protocol for your site
 author:
 street_address: 
 city: Miami
