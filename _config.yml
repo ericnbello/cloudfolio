@@ -2,7 +2,7 @@
 title: Eric Bello
 subtitle: 
 email: ericnbello@icloud.com
-description: Welcome to my site! I'm an IT professional dedicated to continuous learning and excellence. Whether navigating AWS, Azure, and Google Cloud, providing IT support, or managing systems, I thrive in the dynamic tech landscape. From architecting scalable solutions to optimizing infrastructure, I'm passionate about leveraging technology to drive success.
+description: Personal website showcasing various IT projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ericnbello.github.io" # the base hostname & protocol for your site
 author:
@@ -11,7 +11,7 @@ city: Miami
 state: FL
 zip_code: 33155
 country: United States of America
-phone: 
+phone: (305) 981-6595
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
