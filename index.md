@@ -30,7 +30,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Serverless Website</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Completed the Cloud Resume Challenge to apply AWS skills. Deployed a static site on S3 with HTTPS via CloudFront and a custom domain. Implemented a visitor counter using DynamoDB, Python Lambda, and API Gateway. Managed infrastructure with CloudFormation and SAM CLI, and set up CI/CD pipelines with GitHub Actions. This project showcased my expertise in AWS, cloud services, and automation.</p>
 				<ul class="actions">
 					<li><a href="serverless-website.html" class="button">Read More</a></li>
 					<li><a href="https://www.ericnbello.com" class="button">View Demo</a></li>
@@ -47,7 +47,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Cloud Server Website</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Developed a weather forecast application using Python and Django, integrating data from multiple APIs for accurate weather information. The app is containerized with Docker and hosted on AWS EC2 for scalability and reliability. Automated deployment and CI/CD are managed with Terraform and GitHub Actions, securing Terraform state with S3 and DynamoDB. Key technologies include Django, Docker, AWS EC2, Terraform, GitHub Actions, OpenID Connect, S3, and DynamoDB.</p>
 				<ul class="actions">
 					<li><a href="cloud-server-website.html" class="button">Read More</a></li>
 					<li><a href="http://ec2-44-214-46-118.compute-1.amazonaws.com" class="button">View Demo</a></li>
@@ -56,17 +56,17 @@ nav-menu: false
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a href="azure-vmware.html" class="image">
+			<img src="{% link assets/images/VMWare-azure.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Hybrid Azure AD Home Lab</h3>
+					<h3>Hybrid Azure AD Virtual Lab</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This project sets up a VMWare virtual home lab with Windows Server 2019 as a domain controller and Windows 10 clients, integrating on-premises Active Directory with Azure. It configures domain settings, GPOs, and implements Azure AD Connect for hybrid identity management and SSO with password hash synchronization. Demonstrates expertise in AD management, Azure integration, and hybrid identity solutions relevant to cloud engineering, DevOps, help desk, and sys admin roles.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="azure-vmware.html" class="button">Read More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -74,7 +74,7 @@ nav-menu: false
 </section>
 
 <!-- Three -->
-<section id="three">
+<!-- <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -84,6 +84,6 @@ nav-menu: false
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 
 </div>
