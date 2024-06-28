@@ -121,7 +121,7 @@
 
 <!-- <h4>Fit</h4> -->
 <div class="image fit">
-<img src="{% link assets/images/VMWare-azure.png %}" alt="" />
+<img src="{% link assets/images/VMware-azure.png %}" alt="" />
 </div>
 
 </div>
