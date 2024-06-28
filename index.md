@@ -15,7 +15,7 @@ nav-menu: false
 		<header class="major">
 			<h2>Welcome to my site</h2>
 		</header>
-		<p>I'm an IT professional dedicated to continuous learning and excellence. Whether navigating AWS, Azure, and Google Cloud, providing IT support, or managing systems, I thrive in the dynamic tech landscape. From architecting scalable solutions to optimizing infrastructure, I'm passionate about leveraging technology to drive success. Below are some of my recent projects!</p>
+		<p>I am a dedicated IT professional committed to ongoing learning and achieving excellence. Whether navigating AWS, Azure, and Google Cloud environments, delivering IT support, or managing systems, I excel in the dynamic tech landscape. I am passionate about architecting scalable solutions and optimizing infrastructure to drive success through technology. Below, you'll find highlights of some recent projects I've undertaken.</p>
 	</div>
 </section>
 
@@ -57,7 +57,7 @@ nav-menu: false
 	</section>
 	<section>
 		<a href="azure-vmware.html" class="image">
-			<img src="{% link assets/images/VMWare-azure.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/VMware-azure.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
