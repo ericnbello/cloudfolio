@@ -76,4 +76,5 @@
     <li><a href="http://ec2-44-214-46-118.compute-1.amazonaws.com" class="button">View Demo</a></li>
 </ul>
 </div>
+</div>
 </section>
