@@ -71,14 +71,9 @@
 <!-- <h4>Fit</h4> -->
 <div class="image fit">
 <img src="{% link assets/images/Weather-App.png %}" alt="" />
-<div class="content">
-    <div class="inner">
-        <ul class="actions">
-            <li><a href="https://github.com/ericnbello/weather" class="button">View Repo</a></li>
-            <li><a href="http://ec2-44-214-46-118.compute-1.amazonaws.com" class="button">View Demo</a></li>
-        </ul>
-    </div>
-</div>
-
+<ul class="actions" style="padding-top:1rem;">
+    <li><a href="https://github.com/ericnbello/weather" class="button">View Repo</a></li>
+    <li><a href="http://ec2-44-214-46-118.compute-1.amazonaws.com" class="button">View Demo</a></li>
+</ul>
 </div>
 </section>
