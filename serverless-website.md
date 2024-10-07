@@ -72,10 +72,13 @@
 
 <div class="image fit">
 <img src="{% link assets/images/cloud-resume-screenshot.png %}" alt="" />
-<ul class="actions">
-    <li><a href="https://github.com/ericnbello/cloud-resume" class="button">View Repo</a></li>
-    <li><a href="https://www.cloud.ericnbello.com" class="button">View Demo</a></li>
-</ul>
+<div class="content">
+    <div class="inner">
+        <ul class="actions">
+            <li><a href="https://github.com/ericnbello/cloud-resume" class="button">View Repo</a></li>
+            <li><a href="https://www.cloud.ericnbello.com" class="button">View Demo</a></li>
+        </ul>
+    </div>
 </div>
 
 </div>
