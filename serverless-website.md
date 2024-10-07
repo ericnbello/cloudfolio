@@ -72,7 +72,9 @@
 
 <div class="image fit">
 <img src="{% link assets/images/cloud-resume-screenshot.png %}" alt="" />
-<li><a href="https://www.cloud.ericnbello.com" class="button">View Demo</a></li>
+<ul class="actions">
+    <li><a href="https://www.cloud.ericnbello.com" class="button">View Demo</a></li>
+</ul>
 </div>
 
 </div>
