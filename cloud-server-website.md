@@ -71,6 +71,7 @@
 <!-- <h4>Fit</h4> -->
 <div class="image fit">
 <img src="{% link assets/images/Weather-App.png %}" alt="" />
+<li><a href="http://ec2-44-214-46-118.compute-1.amazonaws.com" class="button">View Demo</a></li>
 </div>
 
 </div>
