@@ -71,7 +71,8 @@
     <p>Completing the Cloud Resume Challenge was an enriching experience that demonstrated my skills in AWS and expanded my knowledge in cloud services, automation, and infrastructure as code. This project showcased my ability to deliver professional-grade solutions using cutting-edge technologies.</p>
 
 <div class="image fit">
-<img src="{% link assets/images/Eric-Bello-Portfolio.png %}" alt="" />
+<img src="{% link assets/images/cloud-resume-screenshot.png %}" alt="" />
+<li><a href="https://www.cloud.ericnbello.com" class="button">View Demo</a></li>
 </div>
 
 </div>
