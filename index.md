@@ -33,7 +33,7 @@ nav-menu: false
 				<p>Completed the Cloud Resume Challenge to apply AWS skills. Deployed a static site on S3 with HTTPS via CloudFront and a custom domain. Implemented a visitor counter using DynamoDB, Python Lambda, and API Gateway. Managed infrastructure with CloudFormation and SAM CLI, and set up CI/CD pipelines with GitHub Actions. This project showcased my expertise in AWS, cloud services, and automation.</p>
 				<ul class="actions">
 					<li><a href="serverless-website.html" class="button">Read More</a></li>
-					<li><a href="https://www.cloud.ericnbello.com" class="button">View Demo</a></li>
+					<li><a href="https://www.cloud-resume.ericnbello.com" class="button">View Demo</a></li>
 				</ul>
 			</div>
 		</div>

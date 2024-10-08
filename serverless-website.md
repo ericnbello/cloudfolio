@@ -74,7 +74,7 @@
     <img src="{% link assets/images/cloud-resume-screenshot.png %}" alt="" />
     <ul class="actions" style="padding-top:1rem;">
         <li><a href="https://github.com/ericnbello/cloud-resume" class="button">View Repo</a></li>
-        <li><a href="https://www.cloud.ericnbello.com" class="button">View Demo</a></li>
+        <li><a href="https://www.cloud-resume.ericnbello.com" class="button">View Demo</a></li>
     </ul>
 </div>
 </div>
